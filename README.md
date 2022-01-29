@@ -30,10 +30,12 @@ OR
 - Written in JavaScript
 - Created with Electron (https://www.electronjs.org/)
 - Program designed with Figma (https://www.figma.com/)
-- Ratings & prices used from https://www.yelp.com/ and https://www.tripadvisor.com/
+- Prices from https://www.yelp.com/ and https://www.tripadvisor.com/
 
 Libraries used: https://ionic.io/, https://www.electron.build/, https://getbootstrap.com/
 
 Images used: https://picjumbo.com/, https://depositphotos.com/, https://www.istockphoto.com/, https://www.dreamstime.com/
+
+Fonts from Google Fonts (https://fonts.google.com/)
 
 Compiled by https://jrsoftware.org/isinfo.php
