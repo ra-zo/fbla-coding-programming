@@ -1,0 +1,17 @@
+{
+  "name": "keller-resturants",
+  "productName": "Keller Resturants",
+  "version": "1.0.0",
+  "description": "A resturant suggester for FBLA.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^16.0.7",
+    "electron-packager": "^15.4.0"
+  },
+  "dependencies": {
+    "ionicons": "^6.0.0"
+  }
+}

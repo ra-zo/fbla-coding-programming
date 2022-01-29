@@ -1,0 +1,137 @@
+body {
+    background-color: #36393F;
+  }
+
+h1, h2, h3 {
+    font-family: 'Poppins', sans-serif; 
+    font-style: normal;
+    font-weight: normal;
+    color: #DCDDDE;
+}
+
+h1 {
+    margin-left: 270px;
+    font-size: 48px;
+}
+
+h2 {
+    margin-left: 195px;
+    font-size: 18px;
+}
+
+h3 {
+    font-size: 36px;
+}
+
+button.btn.btn-outline-primary {
+    margin-top: 30px;
+    width: 200px;
+    margin-left: 330px;
+    height: 60px;
+}
+
+.attractionsList {
+    background-color: #1E5095;
+    margin-left: 100px;
+    width: 670px;
+    margin-bottom: 20px;
+    height: 100px;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif; 
+    font-style: normal;
+    font-weight: normal;
+    color: #DCDDDE;
+}
+
+#addressBox {
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    color: #DCDDDE;
+    width: 350px;
+    text-overflow: ellipsis;
+    margin-left: 100px;
+    margin-top: 3px;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+#nameBox {
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    color: #DCDDDE;
+    width: 450px;
+    text-overflow: ellipsis;
+    margin-left: 100px;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+#typeBox {
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    color: #DCDDDE;
+    width: 380px;
+    text-overflow: ellipsis;
+    margin-top: 5px;
+    margin-left: 100px;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+div#priceBox {
+    position: absolute;
+    margin-left: 400px;
+    margin-top: -70px;
+}
+#ratingBox {
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    margin-left: 470px;
+    font-weight: normal;
+    margin-top: -10px;
+    color: #DCDDDE;
+    width: 200px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+*, *::after, *::before {
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    user-select: none;
+    -webkit-app-region: no-drag;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+
+}
+
+::-webkit-scrollbar-track {
+  background-color: #838383
+}
+
+
+::-webkit-scrollbar-thumb {
+  background: #2A2E38; 
+  
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #4c5365; 
+}
+
+img {
+    margin-top: -140px;
+    width: 70px;
+    margin-left: 10px;
+    height: 50px;
+}

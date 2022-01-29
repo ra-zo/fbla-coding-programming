@@ -1,0 +1,153 @@
+body {
+    background-color: #36393F;
+  }
+
+h1, h2, h3 {
+    font-family: 'Poppins', sans-serif; 
+    font-style: normal;
+    font-weight: normal;
+    color: #DCDDDE;
+}
+
+h1 {
+    margin-left: 290px;
+    font-size: 48px;
+}
+
+h2 {
+    margin-left: 330px;
+    font-size: 18px;
+}
+
+h3 {
+    font-size: 36px;
+}
+
+input#exampleFormControlInput1 {
+    width: 10%;
+}
+
+ion-icon.md.hydrated {
+    font-size: 60px;
+    margin-left: 40px;
+}
+
+h3#location {
+    margin-left: 10px;
+}
+
+h3#food {
+    margin-left: 235px;
+    margin-top: -50px;
+}
+
+h3#price {
+    margin-top: -50px;
+    margin-left: 400px;
+}
+
+h3#place {
+    margin-top: -50px;
+    margin-left: 560px;
+}
+
+h3#allAges {
+    margin-top: -55px;
+    margin-left: 765px;
+}
+
+input#exampleFormControlInput1 {
+    margin-left: 10px;
+}
+
+ion-icon#cash {
+    margin-left: 100px;
+}
+
+ion-icon#fast-food {
+    margin-left: 130px;
+}
+
+ion-icon#clock {
+    margin-left: 110px;
+}
+
+ion-icon#star {
+    margin-top: 40px;
+    margin-left: 120px;
+}
+
+ion-icon#compass {
+    margin-left: 60px;
+}
+
+select.form-select {
+    width: 15%;
+    margin-left: 220px;
+}
+
+input#exampleFormControlInput1 {
+    margin-left: 10px;
+    width: 18%;
+    margin-top: 30px;
+}
+
+select#location-select {
+    margin-top: -55px;
+}
+
+select#price-select {
+    margin-left: 390px;
+    margin-top: -38px;
+}
+
+select#star-select {
+    margin-left: 570px;
+    margin-top: -39px;
+}
+
+select#place-select {
+    margin-left: 740px;
+    margin-top: -40px;
+}
+
+button.btn.btn-outline-primary {
+    margin-top: 140px;
+    width: 200px;
+    margin-left: 350px;
+    height: 100px;
+}
+
+select#allAges-select {
+    margin-left: 740px;
+    margin-top: -40px;
+}
+
+h3#price {
+    margin-top: -50px;
+    margin-left: 405px;
+}
+
+select#type-select {
+    margin-top: -35px;
+}
+
+select#location-select {
+    margin-top: 10px;
+    margin-left: 25px;
+}
+
+select#place-select {
+    margin-left: 570px;
+    margin-top: -40px;
+}
+
+select#price-select {
+    margin-left: 390px;
+    margin-top: -38px;
+}
+
+h3#place {
+    margin-top: -50px;
+    margin-left: 580px;
+}
