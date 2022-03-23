@@ -3,11 +3,18 @@ var list = localStorage.getItem('locations');
 // Due to JSON.stringify, the list needs to be parsed to be displayed. If not, the list will be displayed as "[Object, Object]"
 var parsedList = JSON.parse(list)
 
+
 // Find length of object (attractions list) to be displayed in HTML
 var locationLength = Object.keys(parsedList).length;
 console.log(locationLength)
 
-let locationDom = parsedList[0].location
+let locationDom 
+
+if (locationLength == 50) {
+    locationDom = 'Texas'
+} else {
+    locationDom = parsedList[0].location
+}
 
 // Display number of matching attractions through DOM manipulation
 document.getElementById('subtitle').innerHTML = `There are ${locationLength} attractions in ${locationDom} that match your critera.`

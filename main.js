@@ -5,6 +5,7 @@ function createWindow () {
   const mainWindow = new BrowserWindow({
     width: 900,
     height: 650,
+    icon: __dirname + '/images/FBLA_PBL_Logo.png',
     webPreferences: {
       nodeIntegration: true,
       contextIsolation: false,

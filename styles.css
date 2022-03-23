@@ -1,5 +1,5 @@
 body {
-    background-color: #36393F;
+    background-color: #15202b;
   }
 
 h1, h2, h3 {
@@ -28,6 +28,7 @@ input#exampleFormControlInput1 {
 }
 
 ion-icon.md.hydrated {
+    color: #617da0;
     font-size: 60px;
     margin-left: 40px;
 }
@@ -70,6 +71,11 @@ ion-icon#fast-food {
 
 ion-icon#clock {
     margin-left: 110px;
+}
+
+ion-icon#question {
+    margin-bottom: -340px;
+    color: white;
 }
 
 ion-icon#star {

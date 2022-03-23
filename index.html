@@ -19,6 +19,10 @@
       <ion-icon name="cash-sharp" id="cash"></ion-icon>
       <ion-icon name="sunny-sharp" id="star"></ion-icon>
       <ion-icon name="people-sharp" id="clock"></ion-icon>
+      <div onclick="modal()">
+      <ion-icon name="help-circle-sharp" id="question"></ion-icon>
+      </div>
+
       <h3 id="location" class="location">Location:</h3>
       <h3 id="food" class="food">Type:</h3>
       <h3 id="price" class="price">Price:</h3>
@@ -66,7 +70,18 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
     <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
     <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+
     <script>
+
+    const Swal = require('sweetalert2')
+
+    async function modal() {
+      Swal.fire(
+      'Help/FAQ Menu',
+      `Up to 50 attractions are available. At the moment, the only state supported is Texas. No attributes are required`,
+      'question'
+      )
+    }
 
     </script>
   </body>
