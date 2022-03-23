@@ -14,10 +14,20 @@ You have been hired by your state or local area’s tourism bureau to develop a 
 
 # Instructions
 
-Direct download (EXE): https://drive.google.com/file/d/1CeBM_w_qK-1eORyXOHiiWhdrVGHmZRtK/view?usp=sharing
+Github release (EXE): https://github.com/ra-zo/fbla-coding-programming/releases/tag/V1.0
+
+1. Click "TXAttractions.Setup.exe"
+2. Download the EXE
+3. Follow the instructions and install
+
+![image](https://user-images.githubusercontent.com/66813930/159623140-4e0d76e9-65dc-4d3c-9c13-098b9ec9b911.png)
+
+
+Direct download (EXE): https://drive.google.com/file/d/1SuWApe_Jnfao7q96XVdeYa0LmNT6y9Db/view?usp=sharing
 
 1. Download from Google Drive
-2. Open the EXE
+2. Download the EXE
+3. Follow the instructions and install
 
 OR
 
